@@ -9,10 +9,10 @@
  ```
  Once installed, verify the installation 
  ```
-  python --version
+  $python --version
  ```
  Install Jupyter Notebook
  ```
-  pip install jupyter
+  $pip install jupyter
  ```
  
