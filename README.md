@@ -19,4 +19,7 @@
  ```
  $ pip install pandas
  ```
- 
+ ## Installing Matplotlib 
+ ```
+ $ pip install matplotlib
+ ```
