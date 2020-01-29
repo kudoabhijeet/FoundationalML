@@ -1,7 +1,10 @@
-# Classification - KNN classifier
-## Requirements 
+# Supervised Machine Learning
+## What is Supervised and Unsupervised Machine Learning
+```
+ Supervised Machine Learning : Data points have known outcome
+ Unsupervised  Machine Learning : Data points have unknown outcome.
  ```
-  pip3 install sklearn
- ```
+ ### Supervised Machine Learning Consists of :
+ 
  ## K-Nearest Neighbors 
  
