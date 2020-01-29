@@ -6,5 +6,6 @@
  ```
  ### Supervised Machine Learning Consists of :
  
- ## K-Nearest Neighbors 
+ ## 1. Regression
+ ## 2. Classification
  
