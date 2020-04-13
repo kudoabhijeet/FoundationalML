@@ -6,9 +6,9 @@
 
  ## Supervised Machine Learning Consists of :
  
- ### 1. Regression
+ ### 1. [Regression](/regression)
  - Outcome is continous(Numerical)
  
- ### 2. Classification
+ ### 2. [Classification]
  - Outcome is a category
  
