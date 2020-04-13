@@ -6,7 +6,7 @@
 
  ## Supervised Machine Learning Consists of :
  
- ### 1. [Regression](/Regression)
+ ### 1. [Regression](https://github.com/kudoabhijeet/Machine-Learning/tree/master/supervisedlearning/Regression)
  - Outcome is continous(Numerical)
  
  ### 2. [Classification]
