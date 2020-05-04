@@ -4,14 +4,14 @@
  
  __Unsupervised  Machine Learning__ : Data points have unknown outcome.
  
- ### Supervised Machine Learning Consists of :
+ ## Supervised Machine Learning Consists of :
  
- ## 1. Regression
+ ### 1. Regression
    - Simple Linear Regrezsion
    - Multiple Linear Regression
    - Polynomial Regression
    - Non-Linear Regression
- ## 2. Classification
+ ### 2. Classification
    - KNN Classifier
    - Logistic Regression
    - Decision Trees
