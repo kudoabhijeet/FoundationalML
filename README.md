@@ -26,7 +26,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-  * [Python Data Science Libraries](https://github.com/kudoabhijeet/FoundationalML/tree/master/basics)
+  * [Python Data Science Libraries](https://github.com/kudoabhijeet/FoundationalML/tree/master/Python%20Data%20Science%20Libraries)
 * [Contributing](#contributing)
 * [Contact](#contact)
 
@@ -39,8 +39,6 @@ Fundamentals of Machine Learning using Python.
 ### Built With
 * [Jupyter Notebook](https://jupyter.org/)
 * [Python3](https://www.python.org/)
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -56,11 +54,10 @@ This repository provides an overview of machine learning fundamentals. Topics co
 
 * python
 ```sh
-choco install python
+choco install -y python
 ```
 
 ### Installation
-
 
 1. Clone the repo
 ```sh
