@@ -26,16 +26,15 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+  * [Python Data Science Libraries](https://github.com/kudoabhijeet/FoundationalML/tree/master/basics)
 * [Contributing](#contributing)
 * [Contact](#contact)
-
-
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Exploring Machine Learning Concepts
+Fundamentals of Machine Learning using Python.
 
 ### Built With
 * [Jupyter Notebook](https://jupyter.org/)
@@ -67,8 +66,6 @@ choco install python
 ```sh
 git clone https://github.com/kudoabhijeet/Machine-Learning.git
 ```
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
