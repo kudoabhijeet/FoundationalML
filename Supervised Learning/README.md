@@ -8,7 +8,11 @@
  
  ## 1. Regression
    - Simple Linear Regrezsion
-   - Multi Linear Regression
+   - Multiple Linear Regression
    - Polynomial Regression
+   - Non-Linear Regression
  ## 2. Classification
- 
+   - KNN Classifier
+   - Logistic Regression
+   - Decision Trees
+   - Support Vector Machines(SVM)
