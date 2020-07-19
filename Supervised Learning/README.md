@@ -7,7 +7,7 @@
  ## Supervised Machine Learning Consists of :
  
  ### 1. Regression
-   - Simple Linear Regrezsion
+   - Simple Linear Regression
    - Multiple Linear Regression
    - Polynomial Regression
    - Non-Linear Regression
